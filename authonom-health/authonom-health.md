@@ -1,20 +1,20 @@
----
-meta:
-  project_id: authonom-health
-  project_slug: authonom-health
-  primary_color: "#18c058"
-  status: active
-header:
-  title: AUTHONOM HEALTH
-  subtitle: Autonomous Health Monitoring
-  logo: data/Logoahealth.png
-contact:
-  email: contact@authonom-health.fr
----
+## meta
+- project_id: authonom-health
+- project_slug: authonom-health
+- primary_color: #18c058
+- status: active
+
+## header
+- title: AUTHONOM HEALTH
+- subtitle: Autonomous Health Monitoring
+- logo: data/Logoahealth.png
+
+## contact
+- email: contact@authonom-health.fr
 
 ## home
 
-![logo](data/Logohealthv2.png){right}
+<img src="data/Logohealthv2.png" align="right" alt="logo">
 
 **why:** Western populations face an increase of longevity which mechanically increases the number of chronic disease patients to manage. Current healthcare strategies will not allow to maintain a high level of care with a controlled cost in the future and E health can optimize the management and costs of our health care systems. Healthy behaviors contribute to prevention and optimization of chronic diseases management, but their implementation is still a major challenge. Digital technologies could help their implementation through numeric behavioral medicine programs to be developed in complement to the existing care in order to focus human interventions on the most severe cases.
 

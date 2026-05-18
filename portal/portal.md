@@ -1,35 +1,39 @@
----
-meta:
-  primary_color: "#1e3a5f"
-header:
-  site_name: IAIS
-  site_subtitle: Institut d'Analyse Interdisciplinaire des Savoirs
-  logo_url: data/vectra-logomark.png
-hero:
-  title: La recherche au cœur de nos collaborations
-  subtitle: Institut d'Analyse Interdisciplinaire des Savoirs
-  description: "Plateforme centralisant nos projets de recherche académique et scientifique. Explorez nos domaines d'expertise et découvrez comment nos équipes contribuent à l'avancement des connaissances."
-  cta_label: Découvrir nos projets
-  cta_url: "#projects"
-  background: data/blue_wallpaper.png
-about:
-  title: À propos de l'IAIS
-  content: "L'Institut d'Analyse Interdisciplinaire des Savoirs (IAIS) est une plateforme de recherche interdisciplinaire qui rassemble des experts de différentes disciplines autour de projets innovants. Notre mission est de favoriser la collaboration entre chercheurs et de rendre la recherche ouverte et accessible à tous."
-  image: data/placeholder.jpg
-contact:
-  title: Contactez-nous
-  email: contact@iais.fr
-  phone: "+33 4 78 78 70 00"
-  address: "Université de Lyon, 92 rue Pasteur, 69007 Lyon, France"
-footer:
-  copyright: "© 2026 IAIS — Tous droits réservés"
-  social_twitter: https://twitter.com/iais_fr
-  social_linkedin: https://linkedin.com/company/iais
-  social_github: https://github.com/iais
-projects:
-  title: Nos Projets
-  subtitle: Explorez nos différents domaines de recherche
----
+## meta
+- primary_color: #1e3a5f
+
+## header
+- site_name: IAIS
+- site_subtitle: Institut d'Analyse Interdisciplinaire des Savoirs
+- logo_url: data/vectra-logomark.png
+
+## hero
+- title: La recherche au cœur de nos collaborations
+- subtitle: Institut d'Analyse Interdisciplinaire des Savoirs
+- description: Plateforme centralisant nos projets de recherche académique et scientifique. Explorez nos domaines d'expertise et découvrez comment nos équipes contribuent à l'avancement des connaissances.
+- cta_label: Découvrir nos projets
+- cta_url: #projects
+- background: data/blue_wallpaper.png
+
+## about
+- title: À propos de l'IAIS
+- content: L'Institut d'Analyse Interdisciplinaire des Savoirs (IAIS) est une plateforme de recherche interdisciplinaire qui rassemble des experts de différentes disciplines autour de projets innovants. Notre mission est de favoriser la collaboration entre chercheurs et de rendre la recherche ouverte et accessible à tous.
+- image: data/placeholder.jpg
+
+## contact
+- title: Contactez-nous
+- email: contact@iais.fr
+- phone: +33 4 78 78 70 00
+- address: Université de Lyon, 92 rue Pasteur, 69007 Lyon, France
+
+## footer
+- copyright: © 2026 IAIS — Tous droits réservés
+- social_twitter: https://twitter.com/iais_fr
+- social_linkedin: https://linkedin.com/company/iais
+- social_github: https://github.com/iais
+
+## projects
+- title: Nos Projets
+- subtitle: Explorez nos différents domaines de recherche
 
 ## stats
 
