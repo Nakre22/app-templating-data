@@ -4,7 +4,6 @@ meta:
   primary_color: '#18c058'
   status: active
   favicon: /api/data/authonom-health/Logoahealth.png
-  external_url: https://www.google.com
 header:
   title: AUTHONOM HEALTH
   subtitle: Autonomous Health Monitoring
