@@ -4,7 +4,6 @@
 - primary_color: #18c058
 - status: active
 - favicon: data/Logoahealth.png
-- external_url: https://www.google.com
 
 ## header
 - title: AUTHONOM HEALTH
