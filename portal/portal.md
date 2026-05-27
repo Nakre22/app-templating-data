@@ -1,5 +1,6 @@
 ## meta
 - primary_color: #1e3a5f
+- favicon: data/vectra-logomark.png
 
 ## header
 - site_name: IAIS

@@ -3,6 +3,8 @@
 - project_slug: authonom-health
 - primary_color: #18c058
 - status: active
+- favicon: data/Logoahealth.png
+- external_url: https://www.google.com
 
 ## header
 - title: AUTHONOM HEALTH
@@ -138,6 +140,16 @@ Blog & News
 |------|------|
 | Le blog des BU Lyon 1 | https://blogbu.univ-lyon1.fr/ |
 | Scolarité DFASM2 25-26 | https://moodle.univ-lyon1.fr/course/view.php?id=8423&section=1 |
+
+## partners
+
+Partners & Collaborators
+
+| name | logo | url | description |
+|------|------|-----|-------------|
+| CNRS | data/placeholder.jpg | https://cnrs.fr | Centre National de la Recherche Scientifique |
+| Inria | data/placeholder.jpg | https://inria.fr | Institut national de recherche en sciences du numérique |
+| Université Claude Bernard Lyon 1 | data/placeholder.jpg | https://www.univ-lyon1.fr | Université de Lyon 1 |
 
 ## relatedprojects
 
