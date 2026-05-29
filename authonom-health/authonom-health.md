@@ -1,10 +1,9 @@
 ## meta
 - project_id: authonom-health
 - project_slug: authonom-health
-- primary_color: #18c058
+- primary_color: #1850c0
 - status: active
 - favicon: data/Logoahealth.png
-- external_url: https://www.google.com
 
 ## header
 - title: AUTHONOM HEALTH
