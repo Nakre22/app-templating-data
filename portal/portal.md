@@ -49,12 +49,21 @@
 
 Nos Axes de Recherche
 
-| name | description | icon |
-|------|-------------|------|
-| Intelligence Artificielle | Développement de méthodes d'IA appliquées aux humanités numériques et à la recherche interdisciplinaire. | psychology |
-| Santé & Bien-être | Analyse des données de santé et développement de solutions innovantes pour le suivi et l'amélioration du bien-être. | favorite |
-| Patrimoine Culturel | Numérisation, analyse et valorisation du patrimoine culturel et des archives scientifiques. | account_balance |
-| Données & Visualisation | Conception d'outils de visualisation pour explorer et communiquer des données de recherche complexes. | bar_chart |
+### Intelligence Artificielle
+- description: Développement de méthodes d'IA appliquées aux humanités numériques et à la recherche interdisciplinaire.
+- icon: psychology
+
+### Santé & Bien-être
+- description: Analyse des données de santé et développement de solutions innovantes pour le suivi et l'amélioration du bien-être.
+- icon: favorite
+
+### Patrimoine Culturel
+- description: Numérisation, analyse et valorisation du patrimoine culturel et des archives scientifiques.
+- icon: account_balance
+
+### Données & Visualisation
+- description: Conception d'outils de visualisation pour explorer et communiquer des données de recherche complexes.
+- icon: bar_chart
 
 ## partners
 
