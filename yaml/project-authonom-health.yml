@@ -17,7 +17,8 @@ home:
   logo: /api/data/Logohealthv2.png
   logo_align: left
   logo_width: '180'
-  why: Western populations face an increase of longevity which mechanically increases
+  why: Western populations face an increase of longevity <a href="https://hal.science/"
+    target="_blank" rel="noopener noreferrer">HAL Science</a> which mechanically increases
     the number of chronic disease patients to manage. Current healthcare strategies
     will not allow to maintain a high level of care with a controlled cost in the
     future and E health can optimize the management and costs of our health care systems.
@@ -63,6 +64,11 @@ projecttracks:
       and epidemiological cohorts. Generation of multidimensional predictive models
       for diagnosis and treatment.
 members:
+  description: The AUTHONOM HEALTH team brings together researchers from computer
+    science, clinical medicine, and behavioral psychology at <a href="https://www.univ-lyon1.fr"
+    target="_blank" rel="noopener noreferrer">Université Claude Bernard Lyon 1</a>.
+    Our interdisciplinary approach bridges digital technologies and healthcare practice.
+  image: /api/data/msh.jpg
   title: Members
   items:
   - name: Pr. Mohand-Said Hacid
@@ -91,6 +97,10 @@ members:
     twitter: https://twitter.com/ayedrahib
     image: /api/data/placeholder.png
 interns:
+  description: We welcome Master and PhD interns year-round. Current openings are
+    listed in the <a href="#openpositions" target="_blank" rel="noopener noreferrer">Open
+    Positions</a> section. To apply, send your CV and a short motivation letter to
+    <a href="mailto:contact@authonom-health.fr" target="_blank" rel="noopener noreferrer">contact@authonom-health.fr</a>.
   title: Interns
   items:
   - name: Mamadou Sotho BAH
@@ -126,6 +136,9 @@ visitors:
     github: https://github.com/mshacid
     image: /api/data/msh.jpg
 events:
+  description: The lab organizes and participates in conferences, workshops, and open
+    days throughout the year. All events are open to the research community unless
+    marked as internal. Contact us to register or request a presentation slot.
   title: Events & Activities
   items:
   - name: Lyon 1 AI Summit 2026
@@ -168,6 +181,9 @@ events:
       the budget vote for 2026, the arrival of new PhD students, and internal administrative
       updates.
 seminars:
+  description: Our seminar series features invited speakers from leading institutions
+    alongside internal progress reports. Seminars are held on Thursdays at 14:00 in
+    Room C4, Nautibus Building. Slides and recordings are shared with registered attendees.
   title: Seminars Agenda
   items:
   - name: Next-Gen Neural Networks
@@ -211,6 +227,11 @@ seminars:
     slides_type: link
     slides_value: /api/data/Projettest.pdf
 openpositions:
+  description: We are actively recruiting motivated researchers and engineers to join
+    our team. All positions are fully funded and located at Université Claude Bernard
+    Lyon 1, Villeurbanne campus. Download the offer sheet for full details and application
+    instructions.
+  image: /api/data/placeholder.jpg
   title: Open Positions
   items:
   - name: 'PhD Position: Generative AI for Medical Diagnosis'
@@ -234,6 +255,12 @@ openpositions:
     duration: 12 months (renewable)
     download: /api/data/Projettest.pdf
 documents:
+  description: All publications are available open-access on <a href="https://hal.science/"
+    target="_blank" rel="noopener noreferrer">HAL Science</a>. Internal reports and
+    project deliverables are accessible to partners upon request. For preprints or
+    collaboration inquiries, <a href="mailto:contact@authonom-health.fr" target="_blank"
+    rel="noopener noreferrer">contact us</a>.
+  image: /api/data/Logoahealth.png
   title: Documents & Publications
   items:
   - name: Complexity Landscape for Local Certification
@@ -278,6 +305,10 @@ documents:
       ensure visual consistency across presentations.
     link: /api/data/Projettest.pdf
 software:
+  description: Our software is developed under open-source licenses and hosted on
+    <a href="https://forge.univ-lyon1.fr" target="_blank" rel="noopener noreferrer">Forge
+    Lyon 1</a>. Contributions and issue reports are welcome. Contact the team before
+    forking for commercial use.
   title: Software & Tools
   items:
   - name: MIF01 - Software Engineering
@@ -302,6 +333,9 @@ software:
       installation instructions.
     download: /api/data/Projettest.zip
 demos:
+  description: Live demonstrations of our prototypes and research outputs. Videos
+    marked with a **data/** link are hosted locally and streamed directly; external
+    links open YouTube embeds.
   title: Demos
   items:
   - name: Présentation troubles du sommeil
@@ -338,6 +372,10 @@ blogs:
   - name: Scolarité DFASM2 25-26
     link: https://moodle.univ-lyon1.fr/course/view.php?id=8423&section=1
 partners:
+  description: AUTHONOM HEALTH is part of a broad national and international network.
+    Our partnerships cover joint publications, shared infrastructure, and co-supervised
+    PhD projects. Interested in collaborating? <a href="mailto:contact@authonom-health.fr"
+    target="_blank" rel="noopener noreferrer">Get in touch</a>.
   title: Partners & Collaborators
   items:
   - name: CNRS
@@ -353,6 +391,9 @@ partners:
     url: https://www.univ-lyon1.fr
     description: Université de Lyon 1
 relatedprojects:
+  description: The following projects share research goals, datasets, or team members
+    with AUTHONOM HEALTH. Explore them to discover complementary work in autonomous
+    digital health and distributed computing.
   title: Related Projects
   items:
   - name: Université Claude Bernard Lyon 1
