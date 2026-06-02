@@ -12,7 +12,7 @@ contact:
   email: contact@authonom-health.fr
 home:
   logo: /api/data/authonom-health/Logohealthv2.png
-  logo_align: right
+  logo_align: left
   logo_width: '180'
   why: Western populations face an increase of longevity which mechanically increases
     the number of chronic disease patients to manage. Current healthcare strategies
