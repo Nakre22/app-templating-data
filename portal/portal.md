@@ -97,11 +97,20 @@ Nos Membres
 - phone: +33 (0) 4 27 46 57 08
 - email: mohand-said.hacid@univ-lyon1.fr
 - website: http://perso.univ-lyon1.fr/mohand-said.hacid/
+- website_2: https://scholar.google.fr/citations?user=mshacid
+- website_2_icon: school
+- linkedin: https://linkedin.com/in/mohand-said-hacid
+- github: https://github.com/mshacid
 
 ### Marie Martin
 - image: data/placeholder.jpg
 - description: Spécialiste en analyse de données de santé et bien-être
+- email: marie.martin@iais.fr
+- linkedin: https://linkedin.com/in/marie-martin
 
 ### Pierre Lefebvre
 - image: data/placeholder.jpg
 - description: Expert en numérisation et valorisation du patrimoine culturel
+- email: pierre.lefebvre@iais.fr
+- linkedin: https://linkedin.com/in/pierre-lefebvre
+- twitter: https://twitter.com/plefebvre

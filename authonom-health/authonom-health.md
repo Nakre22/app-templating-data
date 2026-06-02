@@ -49,20 +49,27 @@ Members
 - email: mohand-said.hacid@univ-lyon1.fr
 - phone: +33 (0) 4 27 46 57 08
 - website: http://perso.univ-lyon1.fr/mohand-said.hacid/
+- website_2: https://scholar.google.fr/citations?user=mshacid
+- website_2_icon: school
+- website_3: https://hal.science/search/?q=hacid
+- website_3_icon: article
+- linkedin: https://linkedin.com/in/mohand-said-hacid
+- github: https://github.com/mshacid
 - image: data/msh.jpg
 
 ### Karim Dia
 - role: Étudiant
 - email: karim.dia@univ-lyon1.fr
 - phone: +33 (0) 4 27 46 57 09
-- website: http://perso.univ-lyon1.fr/mohand-said.hacid/
+- linkedin: https://linkedin.com/in/karim-dia
 - image: data/placeholder.png
 
 ### Ayed Rahib
 - role: Doctorante
 - email: ayed.rahib@univ-lyon1.fr
 - phone: +33 (0) 4 27 46 57 10
-- website: http://perso.univ-lyon1.fr/mohand-said.hacid/
+- linkedin: https://linkedin.com/in/ayed-rahib
+- twitter: https://twitter.com/ayedrahib
 - image: data/placeholder.png
 
 ## interns
@@ -73,18 +80,22 @@ Interns
 - role: Master Intern - Web Development
 - email: mamadou.bah@etu.univ-lyon1.fr
 - website: https://forge.univ-lyon1.fr
+- github: https://github.com/msotho-bah
 - image: data/placeholder.png
 
 ### Abdou-Karim DIA
 - role: Master Intern - Data Engineering
 - email: abdou-karim.dia@etu.univ-lyon1.fr
 - website: https://forge.univ-lyon1.fr
+- github: https://github.com/akdia
+- linkedin: https://linkedin.com/in/abdou-karim-dia
 - image: data/placeholder.png
 
 ### Adam RODRIGUEZ
 - role: Master Intern - AI & Machine Learning
 - email: adam.rodriguez@etu.univ-lyon1.fr
 - website: https://forge.univ-lyon1.fr
+- linkedin: https://linkedin.com/in/adam-rodriguez
 - image: data/placeholder.png
 
 ## visitors
