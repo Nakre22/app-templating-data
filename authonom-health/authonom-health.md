@@ -46,6 +46,9 @@ Project Tracks
 
 Members
 
+- description: The AUTHONOM HEALTH team brings together researchers from computer science, clinical medicine, and behavioral psychology at [Université Claude Bernard Lyon 1](https://www.univ-lyon1.fr). Our interdisciplinary approach bridges digital technologies and healthcare practice.
+- image: data/msh.jpg
+
 ### Pr. Mohand-Said Hacid
 - role: Professor of Computer Science - University of Lyon 1
 - email: mohand-said.hacid@univ-lyon1.fr
@@ -77,6 +80,8 @@ Members
 ## interns
 
 Interns
+
+- description: We welcome Master and PhD interns year-round. Current openings are listed in the [Open Positions](#openpositions) section. To apply, send your CV and a short motivation letter to [contact@authonom-health.fr](mailto:contact@authonom-health.fr).
 
 ### Mamadou Sotho BAH
 - role: Master Intern - Web Development
@@ -119,6 +124,8 @@ Visitors
 
 Events & Activities
 
+- description: The lab organizes and participates in conferences, workshops, and open days throughout the year. All events are open to the research community unless marked as internal. Contact us to register or request a presentation slot.
+
 ### Lyon 1 AI Summit 2026
 - date: 2026-03-20
 - type: Conference
@@ -157,6 +164,8 @@ Events & Activities
 ## seminars
 
 Seminars Agenda
+
+- description: Our seminar series features invited speakers from leading institutions alongside internal progress reports. Seminars are held on Thursdays at 14:00 in Room C4, Nautibus Building. Slides and recordings are shared with registered attendees.
 
 ### Next-Gen Neural Networks
 - date: 2026-03-15
@@ -198,6 +207,9 @@ Seminars Agenda
 
 Open Positions
 
+- description: We are actively recruiting motivated researchers and engineers to join our team. All positions are fully funded and located at Université Claude Bernard Lyon 1, Villeurbanne campus. Download the offer sheet for full details and application instructions.
+- image: data/placeholder.jpg
+
 ### PhD Position: Generative AI for Medical Diagnosis
 - date: 2025-12-20
 - start: 2026-11-01
@@ -226,7 +238,8 @@ Open Positions
 
 Documents & Publications
 
-- description: All publications are available open-access on [HAL Science](https://hal.science/). For preprints or collaboration requests, [contact us](mailto:contact@authonom-health.fr).
+- description: All publications are available open-access on [HAL Science](https://hal.science/). Internal reports and project deliverables are accessible to partners upon request. For preprints or collaboration inquiries, [contact us](mailto:contact@authonom-health.fr).
+- image: data/Logoahealth.png
 
 ### Complexity Landscape for Local Certification
 - type: Conference Paper
@@ -267,6 +280,8 @@ Documents & Publications
 
 Software & Tools
 
+- description: Our software is developed under open-source licenses and hosted on [Forge Lyon 1](https://forge.univ-lyon1.fr). Contributions and issue reports are welcome. Contact the team before forking for commercial use.
+
 ### MIF01 - Software Engineering
 - author: M. Moy & L. Medini (Lyon 1)
 - abstract: Official repository for the M1IF01 course at University Claude Bernard Lyon 1. It contains all educational resources, Java/Maven code skeletons for labs, and tutorials for Continuous Integration (CI/CD) on GitLab. The project covers Agile methodologies, Design Patterns, and software development best practices.
@@ -285,6 +300,8 @@ Software & Tools
 ## demos
 
 Demos
+
+- description: Live demonstrations of our prototypes and research outputs. Videos marked with a **data/** link are hosted locally and streamed directly; external links open YouTube embeds.
 
 ### Présentation troubles du sommeil
 - author: APHP
@@ -325,6 +342,8 @@ Blog & News
 
 Partners & Collaborators
 
+- description: AUTHONOM HEALTH is part of a broad national and international network. Our partnerships cover joint publications, shared infrastructure, and co-supervised PhD projects. Interested in collaborating? [Get in touch](mailto:contact@authonom-health.fr).
+
 ### CNRS
 - logo: data/placeholder.jpg
 - url: https://cnrs.fr
@@ -343,6 +362,8 @@ Partners & Collaborators
 ## relatedprojects
 
 Related Projects
+
+- description: The following projects share research goals, datasets, or team members with AUTHONOM HEALTH. Explore them to discover complementary work in autonomous digital health and distributed computing.
 
 ### Université Claude Bernard Lyon 1
 - link: https://www.univ-lyon1.fr/
