@@ -1,6 +1,8 @@
 meta:
   primary_color: '#1e3a5f'
   favicon: /api/data/vectra-logomark.png
+  page_bg_color: '#eef2f7'
+  surface_color: '#ffffff'
 header:
   site_name: IAIS
   site_subtitle: Institut d'Analyse Interdisciplinaire des Savoirs
