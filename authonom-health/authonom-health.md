@@ -20,7 +20,7 @@
 
 <img src="data/Logohealthv2.png" align="left" width="180" alt="logo">
 
-**why:** Western populations face an increase of longevity which mechanically increases the number of chronic disease patients to manage. Current healthcare strategies will not allow to maintain a high level of care with a controlled cost in the future and E health can optimize the management and costs of our health care systems. Healthy behaviors contribute to prevention and optimization of chronic diseases management, but their implementation is still a major challenge. Digital technologies could help their implementation through numeric behavioral medicine programs to be developed in complement to the existing care in order to focus human interventions on the most severe cases.
+**why:** Western populations face an increase of longevity [HAL Science](https://hal.science/) which mechanically increases the number of chronic disease patients to manage. Current healthcare strategies will not allow to maintain a high level of care with a controlled cost in the future and E health can optimize the management and costs of our health care systems. Healthy behaviors contribute to prevention and optimization of chronic diseases management, but their implementation is still a major challenge. Digital technologies could help their implementation through numeric behavioral medicine programs to be developed in complement to the existing care in order to focus human interventions on the most severe cases.
 
 **what:** The above-mentioned challenges will be disentangled with the following specific goals: (1) Implement large-scale diagnostic evaluations and behavioral interventions on healthy subjects and chronic disease patients using virtual Socially Interactive Agents, smartphones and wearable sensors. (2) Optimize clinical phenotyping by collecting and analyzing non-intrusive data (voice, geolocation, body motion, smartphone footprints). (3) Better understand psychological, economical, and socio-cultural factors driving acceptance and engagement with autonomous digital technologies. (4) Improve interaction modalities to personalize and optimize long-term engagement of users. (5) Organize large scale data collection and interoperability with existing datasets to generate multidimensional predictive models.
 
@@ -225,6 +225,8 @@ Open Positions
 ## documents
 
 Documents & Publications
+
+- description: All publications are available open-access on [HAL Science](https://hal.science/). For preprints or collaboration requests, [contact us](mailto:contact@authonom-health.fr).
 
 ### Complexity Landscape for Local Certification
 - type: Conference Paper
