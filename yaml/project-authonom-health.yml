@@ -13,6 +13,7 @@ contact:
 home:
   logo: /api/data/authonom-health/Logohealthv2.png
   logo_align: right
+  logo_width: '180'
   why: Western populations face an increase of longevity which mechanically increases
     the number of chronic disease patients to manage. Current healthcare strategies
     will not allow to maintain a high level of care with a controlled cost in the
@@ -72,13 +73,13 @@ members:
     email: karim.dia@univ-lyon1.fr
     phone: +33 (0) 4 27 46 57 09
     website: http://perso.univ-lyon1.fr/mohand-said.hacid/
-    image: /api/data/authonom-health/placeholder.jpg
+    image: /api/data/authonom-health/placeholder.png
   - name: Ayed Rahib
     role: Doctorante
     email: ayed.rahib@univ-lyon1.fr
     phone: +33 (0) 4 27 46 57 10
     website: http://perso.univ-lyon1.fr/mohand-said.hacid/
-    image: /api/data/authonom-health/placeholder.jpg
+    image: /api/data/authonom-health/placeholder.png
 interns:
   title: Interns
   items:
@@ -86,17 +87,17 @@ interns:
     role: Master Intern - Web Development
     email: mamadou.bah@etu.univ-lyon1.fr
     website: https://forge.univ-lyon1.fr
-    image: /api/data/authonom-health/placeholder.jpg
+    image: /api/data/authonom-health/placeholder.png
   - name: Abdou-Karim DIA
     role: Master Intern - Data Engineering
     email: abdou-karim.dia@etu.univ-lyon1.fr
     website: https://forge.univ-lyon1.fr
-    image: /api/data/authonom-health/placeholder.jpg
+    image: /api/data/authonom-health/placeholder.png
   - name: Adam RODRIGUEZ
     role: Master Intern - AI & Machine Learning
     email: adam.rodriguez@etu.univ-lyon1.fr
     website: https://forge.univ-lyon1.fr
-    image: /api/data/authonom-health/placeholder.jpg
+    image: /api/data/authonom-health/placeholder.png
 visitors:
   title: Visitors
   items:
