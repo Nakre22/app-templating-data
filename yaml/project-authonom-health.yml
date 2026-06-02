@@ -3,15 +3,16 @@ meta:
   project_slug: authonom-health
   primary_color: '#1850c0'
   status: active
-  favicon: /api/data/authonom-health/Logoahealth.png
+  favicon: /api/data/Logoahealth.png
+  page_bg_color: '#f0f4fc'
 header:
   title: AUTHONOM HEALTH
   subtitle: Autonomous Health Monitoring
-  logo: /api/data/authonom-health/Logoahealth.png
+  logo: /api/data/Logoahealth.png
 contact:
   email: contact@authonom-health.fr
 home:
-  logo: /api/data/authonom-health/Logohealthv2.png
+  logo: /api/data/Logohealthv2.png
   logo_align: left
   logo_width: '180'
   why: Western populations face an increase of longevity which mechanically increases
@@ -67,19 +68,19 @@ members:
     email: mohand-said.hacid@univ-lyon1.fr
     phone: +33 (0) 4 27 46 57 08
     website: http://perso.univ-lyon1.fr/mohand-said.hacid/
-    image: /api/data/authonom-health/msh.jpg
+    image: /api/data/msh.jpg
   - name: Karim Dia
     role: Étudiant
     email: karim.dia@univ-lyon1.fr
     phone: +33 (0) 4 27 46 57 09
     website: http://perso.univ-lyon1.fr/mohand-said.hacid/
-    image: /api/data/authonom-health/placeholder.png
+    image: /api/data/placeholder.png
   - name: Ayed Rahib
     role: Doctorante
     email: ayed.rahib@univ-lyon1.fr
     phone: +33 (0) 4 27 46 57 10
     website: http://perso.univ-lyon1.fr/mohand-said.hacid/
-    image: /api/data/authonom-health/placeholder.png
+    image: /api/data/placeholder.png
 interns:
   title: Interns
   items:
@@ -87,17 +88,17 @@ interns:
     role: Master Intern - Web Development
     email: mamadou.bah@etu.univ-lyon1.fr
     website: https://forge.univ-lyon1.fr
-    image: /api/data/authonom-health/placeholder.png
+    image: /api/data/placeholder.png
   - name: Abdou-Karim DIA
     role: Master Intern - Data Engineering
     email: abdou-karim.dia@etu.univ-lyon1.fr
     website: https://forge.univ-lyon1.fr
-    image: /api/data/authonom-health/placeholder.png
+    image: /api/data/placeholder.png
   - name: Adam RODRIGUEZ
     role: Master Intern - AI & Machine Learning
     email: adam.rodriguez@etu.univ-lyon1.fr
     website: https://forge.univ-lyon1.fr
-    image: /api/data/authonom-health/placeholder.png
+    image: /api/data/placeholder.png
 visitors:
   title: Visitors
   items:
@@ -106,7 +107,7 @@ visitors:
     email: mohand-said.hacid@univ-lyon1.fr
     phone: +33 (0) 4 27 46 57 08
     website: http://perso.univ-lyon1.fr/mohand-said.hacid/
-    image: /api/data/authonom-health/msh.jpg
+    image: /api/data/msh.jpg
 events:
   title: Events & Activities
   items:
@@ -174,7 +175,7 @@ seminars:
       graph isomorphism problems. The speaker presents a new hybrid algorithm combining
       classical pre-processing with quantum subroutines.
     slides_type: link
-    slides_value: /api/data/authonom-health/Projettest.pdf
+    slides_value: /api/data/Projettest.pdf
   - name: 'PhD Progress: Distributed DB'
     date: '2025-09-05'
     type: Internal
@@ -191,7 +192,7 @@ seminars:
       Docker and Singularity. This ensures reproducibility of experiments and simplifies
       deployment on the university cluster.
     slides_type: link
-    slides_value: /api/data/authonom-health/Projettest.pdf
+    slides_value: /api/data/Projettest.pdf
 openpositions:
   title: Open Positions
   items:
@@ -199,22 +200,22 @@ openpositions:
     date: '2025-12-20'
     start: '2026-11-01'
     duration: 3 years
-    download: /api/data/authonom-health/Projettest.pdf
+    download: /api/data/Projettest.pdf
   - name: 'Post-doc: Distributed Algorithms for Cloud Computing'
     date: '2025-12-10'
     start: '2026-02-01'
     duration: 1 year + renewal
-    download: /api/data/authonom-health/Projettest.pdf
+    download: /api/data/Projettest.pdf
   - name: 'Master Internship: Green IT & Energy Efficiency'
     date: '2025-11-15'
     start: Feb / Mar 2026
     duration: 16 weeks
-    download: /api/data/authonom-health/Projettest.pdf
+    download: /api/data/Projettest.pdf
   - name: 'Research Engineer: Full-Stack Web Development'
     date: '2026-01-05'
     start: ASAP
     duration: 12 months (renewable)
-    download: /api/data/authonom-health/Projettest.pdf
+    download: /api/data/Projettest.pdf
 documents:
   title: Documents & Publications
   items:
@@ -258,7 +259,7 @@ documents:
     abstract: This document details the typography, color palettes, and logo usage
       rules for all project publications. It is intended for internal use only to
       ensure visual consistency across presentations.
-    link: /api/data/authonom-health/Projettest.pdf
+    link: /api/data/Projettest.pdf
 software:
   title: Software & Tools
   items:
@@ -282,7 +283,7 @@ software:
       required for local deployment. It includes pre-compiled binaries, configuration
       files, and comprehensive documentation. Refer to the README.md file for detailed
       installation instructions.
-    download: /api/data/authonom-health/Projettest.zip
+    download: /api/data/Projettest.zip
 demos:
   title: Demos
   items:
@@ -311,7 +312,7 @@ demos:
       corps fait le ménage pour éliminer les toxines, favorise la croissance et répare
       les muscles, permet au cerveau de se développer et consolide tout ce qui a été
       appris pendant la journée.
-    link: /api/data/authonom-health/Savez_vous_tout_ce_qui_se_passe_pendant_le_sommeil.mp4
+    link: /api/data/Savez_vous_tout_ce_qui_se_passe_pendant_le_sommeil.mp4
 blogs:
   title: Blog & News
   items:
@@ -323,15 +324,15 @@ partners:
   title: Partners & Collaborators
   items:
   - name: CNRS
-    logo: /api/data/authonom-health/placeholder.jpg
+    logo: /api/data/placeholder.jpg
     url: https://cnrs.fr
     description: Centre National de la Recherche Scientifique
   - name: Inria
-    logo: /api/data/authonom-health/placeholder.jpg
+    logo: /api/data/placeholder.jpg
     url: https://inria.fr
     description: Institut national de recherche en sciences du numérique
   - name: Université Claude Bernard Lyon 1
-    logo: /api/data/authonom-health/placeholder.jpg
+    logo: /api/data/placeholder.jpg
     url: https://www.univ-lyon1.fr
     description: Université de Lyon 1
 relatedprojects:
