@@ -28,9 +28,12 @@
 
 ## footer
 - copyright: © 2026 IAIS — Tous droits réservés
+- social_website: https://www.univ-lyon1.fr
 - social_twitter: https://twitter.com/iais_fr
 - social_linkedin: https://linkedin.com/company/iais
 - social_github: https://github.com/iais
+- social_instagram: https://instagram.com/iais_fr
+- social_youtube: https://youtube.com/@iais
 
 ## projects
 - title: Nos Projets
@@ -69,18 +72,36 @@ Nos Axes de Recherche
 
 Nos Partenaires
 
-| name | logo | url | description |
-|------|------|-----|-------------|
-| Maison des Sciences de l'Homme | data/placeholder.jpg | https://www.msh-lse.fr | Réseau de recherche en sciences humaines et sociales |
-| Authonom Health | data/placeholder.jpg | /project/authonom-health | Projet de recherche en santé numérique |
-| IAIS Research | data/placeholder.jpg | # | Institut de recherche interdisciplinaire |
+### Maison des Sciences de l'Homme
+- logo: data/placeholder.jpg
+- url: https://www.msh-lse.fr
+- description: Réseau de recherche en sciences humaines et sociales
+
+### Authonom Health
+- logo: data/placeholder.jpg
+- url: /project/authonom-health
+- description: Projet de recherche en santé numérique
+
+### IAIS Research
+- logo: data/placeholder.jpg
+- url: #
+- description: Institut de recherche interdisciplinaire
 
 ## members
 
 Nos Membres
 
-| name | image | description | phone | email | website |
-|------|-------|-------------|-------|-------|---------|
-| Pr. Mohand-Said Hacid | data/msh.jpg | Professor of Computer Science - University of Lyon 1 | +33 (0) 4 27 46 57 08 | mohand-said.hacid@univ-lyon1.fr | http://perso.univ-lyon1.fr/mohand-said.hacid/ |
-| Marie Martin | data/placeholder.jpg | Spécialiste en analyse de données de santé et bien-être | | | |
-| Pierre Lefebvre | data/placeholder.jpg | Expert en numérisation et valorisation du patrimoine culturel | | | |
+### Pr. Mohand-Said Hacid
+- image: data/msh.jpg
+- description: Professor of Computer Science - University of Lyon 1
+- phone: +33 (0) 4 27 46 57 08
+- email: mohand-said.hacid@univ-lyon1.fr
+- website: http://perso.univ-lyon1.fr/mohand-said.hacid/
+
+### Marie Martin
+- image: data/placeholder.jpg
+- description: Spécialiste en analyse de données de santé et bien-être
+
+### Pierre Lefebvre
+- image: data/placeholder.jpg
+- description: Expert en numérisation et valorisation du patrimoine culturel

@@ -4,6 +4,7 @@
 - primary_color: #1850c0
 - status: active
 - favicon: data/Logoahealth.png
+- page_bg_color: #f0f4fc
 
 ## header
 - title: AUTHONOM HEALTH
@@ -43,29 +44,59 @@ Project Tracks
 
 Members
 
-| name | role | email | phone | website | image                |
-|------|------|-------|-------|---------|----------------------|
-| Pr. Mohand-Said Hacid | Professor of Computer Science - University of Lyon 1 | mohand-said.hacid@univ-lyon1.fr | +33 (0) 4 27 46 57 08 | http://perso.univ-lyon1.fr/mohand-said.hacid/ | data/msh.jpg         |
-| Karim Dia | Étudiant | karim.dia@univ-lyon1.fr | +33 (0) 4 27 46 57 09 | http://perso.univ-lyon1.fr/mohand-said.hacid/ | data/placeholder.png |
-| Ayed Rahib | Doctorante | ayed.rahib@univ-lyon1.fr | +33 (0) 4 27 46 57 10 | http://perso.univ-lyon1.fr/mohand-said.hacid/ | data/placeholder.png |
+### Pr. Mohand-Said Hacid
+- role: Professor of Computer Science - University of Lyon 1
+- email: mohand-said.hacid@univ-lyon1.fr
+- phone: +33 (0) 4 27 46 57 08
+- website: http://perso.univ-lyon1.fr/mohand-said.hacid/
+- image: data/msh.jpg
+
+### Karim Dia
+- role: Étudiant
+- email: karim.dia@univ-lyon1.fr
+- phone: +33 (0) 4 27 46 57 09
+- website: http://perso.univ-lyon1.fr/mohand-said.hacid/
+- image: data/placeholder.png
+
+### Ayed Rahib
+- role: Doctorante
+- email: ayed.rahib@univ-lyon1.fr
+- phone: +33 (0) 4 27 46 57 10
+- website: http://perso.univ-lyon1.fr/mohand-said.hacid/
+- image: data/placeholder.png
 
 ## interns
 
 Interns
 
-| name | role | email | website | image                |
-|------|------|-------|---------|----------------------|
-| Mamadou Sotho BAH | Master Intern - Web Development | mamadou.bah@etu.univ-lyon1.fr | https://forge.univ-lyon1.fr | data/placeholder.png |
-| Abdou-Karim DIA | Master Intern - Data Engineering | abdou-karim.dia@etu.univ-lyon1.fr | https://forge.univ-lyon1.fr | data/placeholder.png |
-| Adam RODRIGUEZ | Master Intern - AI & Machine Learning | adam.rodriguez@etu.univ-lyon1.fr | https://forge.univ-lyon1.fr | data/placeholder.png |
+### Mamadou Sotho BAH
+- role: Master Intern - Web Development
+- email: mamadou.bah@etu.univ-lyon1.fr
+- website: https://forge.univ-lyon1.fr
+- image: data/placeholder.png
+
+### Abdou-Karim DIA
+- role: Master Intern - Data Engineering
+- email: abdou-karim.dia@etu.univ-lyon1.fr
+- website: https://forge.univ-lyon1.fr
+- image: data/placeholder.png
+
+### Adam RODRIGUEZ
+- role: Master Intern - AI & Machine Learning
+- email: adam.rodriguez@etu.univ-lyon1.fr
+- website: https://forge.univ-lyon1.fr
+- image: data/placeholder.png
 
 ## visitors
 
 Visitors
 
-| name | role | email | phone | website | image |
-|------|------|-------|-------|---------|-------|
-| Pr. Mohand-Said Hacid | Visiting Professor - Computer Science | mohand-said.hacid@univ-lyon1.fr | +33 (0) 4 27 46 57 08 | http://perso.univ-lyon1.fr/mohand-said.hacid/ | data/msh.jpg |
+### Pr. Mohand-Said Hacid
+- role: Visiting Professor - Computer Science
+- email: mohand-said.hacid@univ-lyon1.fr
+- phone: +33 (0) 4 27 46 57 08
+- website: http://perso.univ-lyon1.fr/mohand-said.hacid/
+- image: data/msh.jpg
 
 ## events
 
@@ -265,28 +296,43 @@ Demos
 
 Blog & News
 
-| name | link |
-|------|------|
-| Le blog des BU Lyon 1 | https://blogbu.univ-lyon1.fr/ |
-| Scolarité DFASM2 25-26 | https://moodle.univ-lyon1.fr/course/view.php?id=8423&section=1 |
+### Le blog des BU Lyon 1
+- link: https://blogbu.univ-lyon1.fr/
+
+### Scolarité DFASM2 25-26
+- link: https://moodle.univ-lyon1.fr/course/view.php?id=8423&section=1
 
 ## partners
 
 Partners & Collaborators
 
-| name | logo | url | description |
-|------|------|-----|-------------|
-| CNRS | data/placeholder.jpg | https://cnrs.fr | Centre National de la Recherche Scientifique |
-| Inria | data/placeholder.jpg | https://inria.fr | Institut national de recherche en sciences du numérique |
-| Université Claude Bernard Lyon 1 | data/placeholder.jpg | https://www.univ-lyon1.fr | Université de Lyon 1 |
+### CNRS
+- logo: data/placeholder.jpg
+- url: https://cnrs.fr
+- description: Centre National de la Recherche Scientifique
+
+### Inria
+- logo: data/placeholder.jpg
+- url: https://inria.fr
+- description: Institut national de recherche en sciences du numérique
+
+### Université Claude Bernard Lyon 1
+- logo: data/placeholder.jpg
+- url: https://www.univ-lyon1.fr
+- description: Université de Lyon 1
 
 ## relatedprojects
 
 Related Projects
 
-| name | link |
-|------|------|
-| Université Claude Bernard Lyon 1 | https://www.univ-lyon1.fr/ |
-| LIRIS Laboratory (CNRS) | https://liris.cnrs.fr/ |
-| Inria | https://www.inria.fr/en |
-| ANR (National Research Agency) | https://anr.fr/en/ |
+### Université Claude Bernard Lyon 1
+- link: https://www.univ-lyon1.fr/
+
+### LIRIS Laboratory (CNRS)
+- link: https://liris.cnrs.fr/
+
+### Inria
+- link: https://www.inria.fr/en
+
+### ANR (National Research Agency)
+- link: https://anr.fr/en/
