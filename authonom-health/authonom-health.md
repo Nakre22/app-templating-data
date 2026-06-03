@@ -46,12 +46,19 @@ Project Tracks
 
 Members
 
-- description: The AUTHONOM HEALTH team brings together researchers from computer science, clinical medicine, and behavioral psychology at [Université Claude Bernard Lyon 1](https://www.univ-lyon1.fr). Our interdisciplinary approach bridges digital technologies and healthcare practice.
+- description: The AUTHONOM HEALTH team brings together researchers from computer science, clinical medicine, and behavioral psychology at [Université Claude Bernard Lyon 1](https://www.univ-lyon1.fr). <img src="data/Logohealthv2.png" align="right" width="120"> Our interdisciplinary approach bridges digital technologies and healthcare practice.
 - image: data/msh.jpg
+
+:::
+Weekly team meetings are held every **Tuesday at 10:00** in room C4, Nautibus Building.
+
+New members are encouraged to subscribe to our [mailing list](mailto:contact@authonom-health.fr) and join the [Forge Lyon 1](https://forge.univ-lyon1.fr) workspace for shared repositories.
+:::
 
 ### Pr. Mohand-Said Hacid
 - role: Professor of Computer Science - University of Lyon 1
 - email: mohand-said.hacid@univ-lyon1.fr
+- description: Principal Investigator of AUTHONOM HEALTH. Author of over [120 publications](https://scholar.google.fr/citations?user=mshacid) on databases, knowledge representation, and digital health. Head of the DB research group at [LIRIS CNRS](https://liris.cnrs.fr/).
 - phone: +33 (0) 4 27 46 57 08
 - website: http://perso.univ-lyon1.fr/mohand-said.hacid/
 - website_2: https://scholar.google.fr/citations?user=mshacid
@@ -214,7 +221,15 @@ Open Positions
 - date: 2025-12-20
 - start: 2026-11-01
 - duration: 3 years
+- description: This funded position targets candidates with a strong background in machine learning and clinical data analysis. The thesis will be co-supervised with [CHU de Lyon](https://www.chu-lyon.fr). **Applications open until 15 March 2026.** Send CV and motivation letter to [contact@authonom-health.fr](mailto:contact@authonom-health.fr).
 - download: data/Projettest.pdf
+
+:::
+<img src="data/Logohealthv2.png" align="right" width="100">
+All positions include full social benefits (health insurance, pension) under the French public service framework. PhD candidates receive a gross monthly salary of **€2,100**. Post-doc and engineer positions are negotiated individually.
+
+For any question, contact [contact@authonom-health.fr](mailto:contact@authonom-health.fr) with the subject line **Application — [Position Name]**.
+:::
 
 ### Post-doc: Distributed Algorithms for Cloud Computing
 - date: 2025-12-10
@@ -238,7 +253,7 @@ Open Positions
 
 Documents & Publications
 
-- description: All publications are available open-access on [HAL Science](https://hal.science/). Internal reports and project deliverables are accessible to partners upon request. For preprints or collaboration inquiries, [contact us](mailto:contact@authonom-health.fr).
+- description: All publications are available open-access on [HAL Science](https://hal.science/). ![logo](data/Logoahealth.png){right} Internal reports and project deliverables are accessible to partners upon request. For preprints or collaboration inquiries, [contact us](mailto:contact@authonom-health.fr).
 - image: data/Logoahealth.png
 
 ### Complexity Landscape for Local Certification
@@ -246,7 +261,15 @@ Documents & Publications
 - author: N. Bousquet - L. Feuilloley - S. Zeitoun
 - venue: DISC 2025 (Best Paper Award)
 - abstract: Winner of the Best Paper Award at DISC 2025. This article establishes the complexity classes for local certification in distributed graphs. It proves new bounds for property verification without global knowledge of the network structure.
+- description: This paper underpins our distributed health monitoring architecture. The full article and supplementary proofs are freely available on [arXiv](https://arxiv.org/pdf/2505.20915) and indexed on [HAL](https://hal.science/).
 - link: https://arxiv.org/pdf/2505.20915
+
+:::
+<img src="data/Logoahealth.png" align="left" width="64">
+The publications below span **theoretical computer science** and **applied digital health**. They reflect collaborative work with [Inria](https://inria.fr/), [CNRS](https://cnrs.fr/), and international partners.
+
+Researchers with institutional access can request full author copies via [HAL Open Archive](https://hal.science/).
+:::
 
 ### Sobol Sequences with 2D Projections
 - type: Journal Paper
@@ -334,6 +357,7 @@ Blog & News
 
 ### Le blog des BU Lyon 1
 - link: https://blogbu.univ-lyon1.fr/
+- description: Official blog of the Lyon 1 University Libraries. Covers open-access publishing, research data management, and scientific culture. Regularly features posts relevant to our team's activities.
 
 ### Scolarité DFASM2 25-26
 - link: https://moodle.univ-lyon1.fr/course/view.php?id=8423&section=1
@@ -370,6 +394,7 @@ Related Projects
 
 ### LIRIS Laboratory (CNRS)
 - link: https://liris.cnrs.fr/
+- description: Home laboratory of the AUTHONOM HEALTH team. LIRIS brings together over 400 researchers across distributed systems, computer vision, and intelligent information systems.
 
 ### Inria
 - link: https://www.inria.fr/en
