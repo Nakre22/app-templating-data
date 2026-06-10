@@ -73,11 +73,12 @@ members:
   title: Members
   items:
   - _type: text
-    content: Weekly team meetings are held every **Tuesday at 10:00** in room C4,
-      Nautibus Building.<br><br>New members are encouraged to subscribe to our <a
-      href="mailto:contact@authonom-health.fr" target="_blank" rel="noopener noreferrer">mailing
-      list</a> and join the <a href="https://forge.univ-lyon1.fr" target="_blank"
-      rel="noopener noreferrer">Forge Lyon 1</a> workspace for shared repositories.
+    content: Weekly team meetings are held every <strong>Tuesday at 10:00</strong>
+      in room C4, Nautibus Building.<br><br>New members are encouraged to subscribe
+      to our <a href="mailto:contact@authonom-health.fr" target="_blank" rel="noopener
+      noreferrer">mailing list</a> and join the <a href="https://forge.univ-lyon1.fr"
+      target="_blank" rel="noopener noreferrer">Forge Lyon 1</a> workspace for shared
+      repositories.
   - name: Pr. Mohand-Said Hacid
     role: Professor of Computer Science - University of Lyon 1
     email: mohand-said.hacid@univ-lyon1.fr
@@ -253,18 +254,18 @@ openpositions:
     description: This funded position targets candidates with a strong background
       in machine learning and clinical data analysis. The thesis will be co-supervised
       with <a href="https://www.chu-lyon.fr" target="_blank" rel="noopener noreferrer">CHU
-      de Lyon</a>. **Applications open until 15 March 2026.** Send CV and motivation
-      letter to <a href="mailto:contact@authonom-health.fr" target="_blank" rel="noopener
-      noreferrer">contact@authonom-health.fr</a>.
+      de Lyon</a>. <strong>Applications open until 15 March 2026.</strong> Send CV
+      and motivation letter to <a href="mailto:contact@authonom-health.fr" target="_blank"
+      rel="noopener noreferrer">contact@authonom-health.fr</a>.
     download: /api/data/Projettest.pdf
   - _type: text
     content: <img src="/api/data/Logohealthv2.png" class="img-align-right" width="100">
       All positions include full social benefits (health insurance, pension) under
       the French public service framework. PhD candidates receive a gross monthly
-      salary of **€2,100**. Post-doc and engineer positions are negotiated individually.<br><br>For
-      any question, contact <a href="mailto:contact@authonom-health.fr" target="_blank"
-      rel="noopener noreferrer">contact@authonom-health.fr</a> with the subject line
-      **Application — [Position Name]**.
+      salary of <strong>€2,100</strong>. Post-doc and engineer positions are negotiated
+      individually.<br><br>For any question, contact <a href="mailto:contact@authonom-health.fr"
+      target="_blank" rel="noopener noreferrer">contact@authonom-health.fr</a> with
+      the subject line <strong>Application — [Position Name]</strong>.
   - name: 'Post-doc: Distributed Algorithms for Cloud Computing'
     date: '2025-12-10'
     start: '2026-02-01'
@@ -305,12 +306,13 @@ documents:
     link: https://arxiv.org/pdf/2505.20915
   - _type: text
     content: <img src="/api/data/Logoahealth.png" class="img-align-left" width="64">
-      The publications below span **theoretical computer science** and **applied digital
-      health**. They reflect collaborative work with <a href="https://inria.fr/" target="_blank"
-      rel="noopener noreferrer">Inria</a>, <a href="https://cnrs.fr/" target="_blank"
-      rel="noopener noreferrer">CNRS</a>, and international partners.<br><br>Researchers
-      with institutional access can request full author copies via <a href="https://hal.science/"
-      target="_blank" rel="noopener noreferrer">HAL Open Archive</a>.
+      The publications below span <strong>theoretical computer science</strong> and
+      <strong>applied digital health</strong>. They reflect collaborative work with
+      <a href="https://inria.fr/" target="_blank" rel="noopener noreferrer">Inria</a>,
+      <a href="https://cnrs.fr/" target="_blank" rel="noopener noreferrer">CNRS</a>,
+      and international partners.<br><br>Researchers with institutional access can
+      request full author copies via <a href="https://hal.science/" target="_blank"
+      rel="noopener noreferrer">HAL Open Archive</a>.
   - name: Sobol Sequences with 2D Projections
     type: Journal Paper
     author: N. Bonneel - D. Coeurjolly - J-C. Iehl
@@ -373,8 +375,8 @@ software:
     download: /api/data/Projettest.zip
 demos:
   description: Live demonstrations of our prototypes and research outputs. Videos
-    marked with a **data/** link are hosted locally and streamed directly; external
-    links open YouTube embeds.
+    marked with a <strong>data/</strong> link are hosted locally and streamed directly;
+    external links open YouTube embeds.
   title: Demos
   items:
   - name: Présentation troubles du sommeil
