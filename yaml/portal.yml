@@ -79,6 +79,11 @@ partners:
     logo: /api/data/placeholder.jpg
     url: /project/authonom-health
     description: Projet de recherche en santé numérique
+  - name: Opticonform
+    logo: /api/data/opticonform-logo.png
+    url: /project/opticonform
+    description: Small Language Models auto-certifiés pour la documentation technique
+      industrielle
   - name: IAIS Research
     logo: /api/data/placeholder.jpg
     url: '#'
