@@ -62,21 +62,30 @@ Members
 - image: data/msh.jpg
 
 ### Vincent Lemonde
+- role: CEO Omundu ; Responsable du pilotage du projet OPTICONFORME pour Omundu
+- email: vincent.lemonde@omundu.ai
+- website: https://omundu.ai
 - linkedin: https://www.linkedin.com/in/vincentlemonde
 - image: data/vincent-lemonde.jpeg
 
 ### Mehdi Hennequin
-- image: data/placeholder.png
+- role: CTO Omundu ; Responsable technique du projet OPTICONFORME
+- email: mehdi.hennequin@omundu.ai
+- website: https://omundu.ai
+- linkedin: https://www.linkedin.com/in/mehdi-hennequin-068b4996/
+- image: data/mehdi-hennequin.jpeg
 
 ## engineers
 
 Engineers
 
 ### Ilhem Bekkar
+- role: Ingénieur
 - linkedin: https://www.linkedin.com/in/ilhem-bekkar-8927a11b2/
 - image: data/ilhem-bekkar.png
 
 ### Riad Yala
+- role: Ingénieur
 - website: https://myawsbucket-for-website-hosting-12131415.s3.us-west-1.amazonaws.com/index.html
 - image: data/riad-yala.png
 
@@ -85,21 +94,26 @@ Engineers
 Interns
 
 ### Omar Fatmi
+- role: Stagiaire
 - linkedin: https://www.linkedin.com/in/omar-fatmi-93362a254/
 - image: data/omar-fatmi.png
 
 ### Riad Yala
+- role: Stagiaire
 - website: https://myawsbucket-for-website-hosting-12131415.s3.us-west-1.amazonaws.com/index.html
 - image: data/riad-yala.png
 
 ### Djameleddine Louhbaibat
+- role: Stagiaire
 - image: data/djameleddine-louhbaibat.jpeg
 
 ### Wail Himeur
+- role: Stagiaire
 - linkedin: https://www.linkedin.com/in/wail-himeur-1977a1252/
 - image: data/wail-himeur.jpg
 
 ### Mamadou-Sotho Bah
+- role: Stagiaire
 - image: data/mamadou-sotho-bah.jpg
 
 ## events
