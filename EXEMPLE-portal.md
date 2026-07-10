@@ -16,7 +16,7 @@
   garde les fichiers  project-*.yml. Chaque page projet devient une carte.
     → meta.external_url dans un projet : le clic ouvre cette URL (nouvel onglet).
 
-  ⚠️  Les commentaires <!-- --> ne sont PAS supprimés par le parser : retirez-les
+  ⚠️  Les commentaires HTML ne sont PAS supprimés par le parser : retirez-les
   si vous copiez ce fichier comme gabarit. Tous les  data/xxx  sont des noms
   GÉNÉRIQUES à remplacer par vos propres fichiers du dossier data/ partagé.
 ==============================================================================

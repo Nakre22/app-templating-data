@@ -14,7 +14,7 @@
     2. Y mettre un fichier {slug}.md (ex. mon-projet/mon-projet.md)
     3. La sync génère project-{slug}.yml, et le portail affiche une carte.
 
-  ⚠️  Les commentaires <!-- --> ne sont PAS supprimés par le parser. Si vous
+  ⚠️  Les commentaires HTML ne sont PAS supprimés par le parser. Si vous
   copiez ce fichier comme gabarit dans un dossier {slug}/, RETIREZ les blocs
   de commentaires avant de synchroniser, sinon leur texte peut apparaître.
 
