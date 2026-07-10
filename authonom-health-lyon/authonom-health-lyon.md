@@ -14,7 +14,7 @@
 - card_style: bordered
 
 ## header
-- title: AUTHONOM HEALTH
+- title: AUTHONOM HEALTH LYON
 - subtitle: Autonomous Health Monitoring
 - logo: data/Logoahealth.png
 
