@@ -1,0 +1,67 @@
+meta:
+  project_id: rscs
+  project_slug: rscs
+  primary_color: '#1850c0'
+  secondary_color: '#0d9488'
+  status: active
+  favicon: /api/data/Logoahealth.png
+  page_bg_color: '#e8f0fe'
+  surface_color: '#f0f6ff'
+  text_color: '#0d1b3e'
+  divider_color: '#c7d9f0'
+  heading_font: playfair
+  card_style: bordered
+header:
+  title: Theoretical Framework for Designing and Analyzing Resilient Smart Cyber Systems
+  subtitle: Resilient Smart Cyber Systems
+  logo: /api/data/Logoahealth.png
+contact:
+  email: contact@cnrs.liris.fr
+home:
+  logo: /api/data/Logohealthv2.png
+  logo_align: left
+  logo_width: '180'
+  why: The growing dependence of society on cyber systems in all areas (defense, economy,
+    health, education) makes them prime targets for cyberattacks due to the profound
+    and catastrophic damage such attacks could inflict on the economy and people's
+    daily lives. It is widely recognized that cyber resources and services can be
+    penetrated and maliciously exploited, and that attacks are becoming more potent
+    and persistent. ). These challenges are keys for endowing software and hardware
+    with intelligence (Software Intelligence).
+partners:
+  description: AUTHONOM HEALTH is part of a broad national and international network.
+    Our partnerships cover joint publications, shared infrastructure, and co-supervised
+    PhD projects. Interested in collaborating? <a href="mailto:contact@authonom-health.fr"
+    target="_blank" rel="noopener noreferrer">Get in touch</a>.
+  title: Partners & Collaborators
+  items:
+  - name: CNRS
+    logo: /api/data/placeholder.jpg
+    url: https://cnrs.fr
+    description: Centre National de la Recherche Scientifique
+  - name: Inria
+    logo: /api/data/placeholder.jpg
+    url: https://inria.fr
+    description: Institut national de recherche en sciences du numérique
+  - name: Université Claude Bernard Lyon 1
+    logo: /api/data/placeholder.jpg
+    url: https://www.univ-lyon1.fr
+    description: Université de Lyon 1
+relatedprojects:
+  description: The following projects share research goals, datasets, or team members
+    with AUTHONOM HEALTH. Explore them to discover complementary work in autonomous
+    digital health and distributed computing.
+  title: Related Projects
+  items:
+  - name: Université Claude Bernard Lyon 1
+    link: https://www.univ-lyon1.fr/
+  - name: LIRIS Laboratory (CNRS)
+    link: https://liris.cnrs.fr/
+    description: Home laboratory of the AUTHONOM HEALTH team. LIRIS brings together
+      over 400 researchers across distributed systems, computer vision, and intelligent
+      information systems.
+  - name: Inria
+    link: https://www.inria.fr/en
+  - name: ANR (National Research Agency)
+    link: https://anr.fr/en/
+page_type: project
