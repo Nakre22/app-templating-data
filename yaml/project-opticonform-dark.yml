@@ -1,0 +1,195 @@
+meta:
+  project_id: opticonform
+  project_slug: opticonform
+  primary_color: '#c4922a'
+  secondary_color: '#d4a040'
+  status: active
+  favicon: /api/data/opticonform-logo.png
+  heading_font: playfair
+  card_style: bordered
+  page_bg_color: '#faf8f5'
+  surface_color: '#f2efe8'
+  text_color: '#1a1814'
+  divider_color: '#e6e0d4'
+  ink_bg: '#111110'
+  ink_fg: '#f0ead6'
+header:
+  title: OPTICONFORM
+  subtitle: Small Language Models Auto-certifiés
+  logo: /api/data/opticonform-logo.png
+contact:
+  email: mohand-said.hacid@liris.cnrs.fr
+home:
+  logo: /api/data/opticonform-logo.png
+  logo_width: '180'
+  partner_logos:
+  - name: Omundu
+    logo: /api/data/logo-omundu.png
+    url: https://www.omundu.ai/
+  - name: LIRIS - CNRS
+    logo: /api/data/logo-liris.png
+    url: https://liris.cnrs.fr/
+  - name: Université Claude Bernard Lyon 1
+    logo: /api/data/logo-ucbl1.svg
+    url: https://www.univ-lyon1.fr/
+  - name: Région Auvergne-Rhône-Alpes
+    logo: /api/data/logo-region-aura.jpg
+    url: https://www.auvergnerhonealpes.fr/
+  why: Face à la complexité croissante des équipements industriels et à la pénurie
+    persistante de main-d'œuvre qualifiée, l'industrie doit simplifier et accélérer
+    l'accès à une documentation technique exhaustive. Les opérateurs et techniciens
+    ont besoin d'obtenir rapidement des réponses fiables, contextualisées et exploitables
+    à partir de documents techniques souvent volumineux, hétérogènes et multimodaux.
+  what: 'OPTICONFORM explore des Small Language Models (SLMs) robustes, légers et
+    fiables, capables d''intégrer efficacement des informations multimodales : textes,
+    images, schémas et tableaux. L''objectif est de fournir, à partir d''une question
+    ou d''une image, des réponses précises et contextualisées issues de documents
+    techniques industriels.'
+  how: Le projet combine des techniques avancées de compression de modèles, notamment
+    la distillation et l'élagage, avec une calibration rigoureuse fondée sur la prédiction
+    conforme. Cette approche permet d'associer à chaque prédiction un niveau de confiance
+    explicite, afin d'aider les opérateurs industriels à prendre des décisions plus
+    fiables. OPTICONFORM évalue aussi les limites de réduction des modèles et l'extension
+    de leurs capacités à traiter des entrées visuelles avec un faible coût computationnel.
+projecttracks:
+  title: Project Tracks
+  items:
+  - name: Track 1 — Documentation technique industrielle multimodale
+    description: 'Cet axe vise à exploiter des documents techniques industriels contenant
+      plusieurs types d''informations : texte, images, schémas, plans et tableaux.
+      L''objectif est de rendre ces contenus plus accessibles aux opérateurs à partir
+      de requêtes simples ou d''entrées visuelles.'
+  - name: Track 2 — Small Language Models robustes, légers et fiables
+    description: Cet axe porte sur l'exploration de SLMs capables de produire des
+      réponses contextualisées tout en restant frugaux en ressources matérielles.
+      Le projet étudie notamment la compression de modèles par distillation et élagage
+      afin de conserver la performance tout en réduisant le coût de calcul.
+  - name: Track 3 — Calibration et confiance par prédiction conforme
+    description: Cet axe introduit une approche de calibration basée sur la prédiction
+      conforme. L'objectif est d'associer aux réponses générées un niveau de confiance
+      explicite, afin de renforcer la fiabilité des décisions prises par les utilisateurs
+      industriels.
+  - name: Track 4 — Évaluation pour un usage industriel
+    description: 'Cet axe vise à évaluer les limites de réduction des modèles, leur
+      capacité à traiter des entrées visuelles et leur pertinence pour une nouvelle
+      génération de systèmes industriels intelligents : précis, rapides, fiables et
+      frugaux.'
+members:
+  title: Members
+  items:
+  - name: Mohand-Saïd Hacid
+    role: Responsable scientifique LIRIS du projet OPTICONFORM ; Professeur des universités
+    email: mohand-said.hacid@liris.cnrs.fr
+    website: http://perso.univ-lyon1.fr/mohand-said.hacid/
+    image: /api/data/msh.jpg
+  - name: Vincent Lemonde
+    role: CEO Omundu ; Responsable du pilotage du projet OPTICONFORME pour Omundu
+    email: vincent.lemonde@omundu.ai
+    website: https://omundu.ai
+    linkedin: https://www.linkedin.com/in/vincentlemonde
+    image: /api/data/vincent-lemonde.jpeg
+  - name: Mehdi Hennequin
+    role: CTO Omundu ; Responsable technique du projet OPTICONFORME
+    email: mehdi.hennequin@omundu.ai
+    website: https://omundu.ai
+    linkedin: https://www.linkedin.com/in/mehdi-hennequin-068b4996/
+    image: /api/data/mehdi-hennequin.jpeg
+engineers:
+  title: Engineers
+  items:
+  - name: Ilhem Bekkar
+    role: Ingénieur
+    linkedin: https://www.linkedin.com/in/ilhem-bekkar-8927a11b2/
+    image: /api/data/ilhem-bekkar.png
+  - name: Riad Yala
+    role: Ingénieur
+    website: https://myawsbucket-for-website-hosting-12131415.s3.us-west-1.amazonaws.com/index.html
+    image: /api/data/riad-yala.png
+interns:
+  title: Interns
+  items:
+  - name: Omar Fatmi
+    role: Stagiaire
+    linkedin: https://www.linkedin.com/in/omar-fatmi-93362a254/
+    image: /api/data/omar-fatmi.png
+  - name: Riad Yala
+    role: Stagiaire
+    website: https://myawsbucket-for-website-hosting-12131415.s3.us-west-1.amazonaws.com/index.html
+    image: /api/data/riad-yala.png
+  - name: Djameleddine Louhbaibat
+    role: Stagiaire
+    image: /api/data/djameleddine-louhbaibat.jpeg
+  - name: Wail Himeur
+    role: Stagiaire
+    linkedin: https://www.linkedin.com/in/wail-himeur-1977a1252/
+    image: /api/data/wail-himeur.jpg
+  - name: Mamadou-Sotho Bah
+    role: Stagiaire
+    image: /api/data/mamadou-sotho-bah.jpg
+events:
+  title: Events & Activities
+  items:
+  - name: 'Participation à ISMIS 2026 — Industry Session on Generative AI for Industry:
+      Methods, Applications, and Trust'
+    date: '2026-07-22'
+    type: Conference
+    venue: Lyon
+    author: Mohand-Saïd Hacid, Mehdi Hennequin
+openpositions:
+  title: Open Positions
+  items:
+  - name: 'Stage : NLP et Small Language Models — étude du softmax bottleneck pour
+      les modèles de langage industriels'
+    start: '2026-01-01'
+    duration: 6 mois — janvier 2026 à fin juin 2026
+  - name: 'Stage : Retrieval ColBERT pour la recherche d''information dans la documentation
+      technique industrielle'
+    start: '2026-01-01'
+    duration: 6 mois — janvier 2026 à fin juin 2026
+software:
+  title: Software & Tools
+  items:
+  - name: Unity Forge
+    author: Omundu
+    abstract: Plateforme d'IA dédiée à la maintenance industrielle, conçue pour améliorer
+      l'accès à l'information, réduire les temps d'arrêt et optimiser les interventions
+      à partir de la documentation technique.
+    download: https://www.omundu.ai/
+blogs:
+  title: Blog & News
+  items:
+  - name: REGION POC - PROJET OPTICONFORM
+    link: https://liris.cnrs.fr/projet-institutionnel/region-poc-projet-opticonform
+  - name: 8 projets accompagnés par Minalogic financés dans le cadre du programme
+      Partenariats d'innovation Auvergne-Rhône-Alpes en 2025
+    link: https://www.minalogic.com/8-projets-finances-programme-partenariats-dinnovation-auvergne-rhone-alpes/
+  - name: Omundu — AI Powered Industrial Maintenance
+    link: https://www.omundu.ai/
+partners:
+  title: Partners & Collaborators
+  items:
+  - name: Omundu
+    logo: /api/data/logo-omundu.png
+    url: https://www.omundu.ai/
+    description: Partenaire industriel international basé en France, spécialisé dans
+      l'intelligence artificielle appliquée à la maintenance industrielle et à la
+      documentation technique.
+  - name: LIRIS - CNRS
+    logo: /api/data/logo-liris.png
+    url: https://liris.cnrs.fr/
+    description: Laboratoire d'Informatique en Image et Systèmes d'information, UMR
+      CNRS 5205.
+  - name: Université Claude Bernard Lyon 1
+    logo: /api/data/logo-ucbl1.svg
+    url: https://www.univ-lyon1.fr/
+    description: Université de sciences et technologies de Lyon.
+  - name: Région Auvergne-Rhône-Alpes
+    logo: /api/data/logo-region-aura.jpg
+    url: https://www.auvergnerhonealpes.fr/
+    description: Soutien régional via le programme Partenariats d'innovation Auvergne-Rhône-Alpes.
+relatedprojects:
+  title: Related Projects
+  items:
+  - name: LIRIS Laboratory (CNRS)
+    link: https://liris.cnrs.fr/
+page_type: project
