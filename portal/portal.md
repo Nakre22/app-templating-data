@@ -117,7 +117,7 @@
 - image: data/placeholder.jpg
 - description: Expert en numérisation et valorisation du patrimoine culturel
 - email: pierre.lefebvre@iais.fr
-- linkedin: https://linkedin.com/in/plefebvre
+- linkedin: https://linkedin.com/in/pierre-lefebvre
 - twitter: https://twitter.com/plefebvre
 
 @section about "À propos"
