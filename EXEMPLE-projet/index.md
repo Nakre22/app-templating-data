@@ -16,6 +16,8 @@
          - group: <Groupe de sidebar>                → champ de section
        @<palette>                                    → un bloc réutilisable
          @item <Nom>                                 → une entrée de liste
+         @end                                        → ferme la palette : le texte
+                                                       suivant redevient de la prose
        #, ##, ###                                    → VRAIS titres H1/H2/H3
        :::                                           → bloc de texte libre
        data/x.png  → /api/data/x.png (partagé) ou /api/data/<slug>/x.png si le

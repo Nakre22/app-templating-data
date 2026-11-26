@@ -7,6 +7,7 @@
      surfaces éditoriales). Palettes reconnues côté portail :
        @features · @projectlist · @partners · @members · @stats · prose (texte libre)
      Champ de section « - surface: light | mid | ink » → registre éditorial.
+     « @end » ferme une palette : le texte qui suit redevient de la prose.
      Chrome (hors sections) : @meta / @header / @hero / @contact / @footer.
      ============================================================================ -->
 
