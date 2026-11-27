@@ -77,8 +77,24 @@ Texte normal après la liste des membres.
 
 ### Règles à connaître
 
-- **Libellé de section** : guillemets droits `"…"`, typographiques `“…”`, français `« … »`
-  ou aucun guillemet. Sans libellé, l'`id` est affiché.
+- **Libellé de section** : entièrement libre (accents, apostrophes, `&`, parenthèses,
+  emojis, guillemets à l'intérieur). Il s'entoure de guillemets droits `"…"`,
+  typographiques `“…”`, français `« … »`, ou d'aucun guillemet (tout le reste de la
+  ligne devient alors le libellé). Il s'affiche tel quel, en texte simple :
+  - la mise en forme n'y est pas lue (`**gras**` garde ses astérisques) ;
+  - des guillemets simples `'…'` restent affichés ;
+  - sans libellé, l'`id` est affiché ; un libellé vide `""` donne un titre vide.
+- **`id` de section** : un seul mot, sans espace, mis en minuscules automatiquement.
+  Il apparaît dans l'adresse (`…#equipe`) : utilisez des minuscules, des chiffres et
+  des tirets. Les caractères `#`, `?`, `/` ou `%` cassent le lien direct vers la section.
+- **`id` réservés sur le portail** :
+  - `top` : le bandeau d'accueil ;
+  - `contact` : le bloc `@contact` (une section `contact` ferait doublon) ;
+  - `projects` : cible du bouton d'accueil quand `cta_url` est absent. Sans section
+    `projects`, gardez un `cta_url` explicite.
+
+  Aucun `id` n'est réservé sur les pages projet.
+- **Directive en minuscules** : `@Section` n'est pas reconnu.
 - **Deux sections avec le même `id`** : la seconde devient `id-2`.
 - **Une valeur sur plusieurs lignes** : une ligne qui suit directement `- clé: valeur`
   la prolonge.
